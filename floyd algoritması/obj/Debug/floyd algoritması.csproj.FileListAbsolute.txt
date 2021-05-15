@@ -1,0 +1,11 @@
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\bin\Debug\floyd algoritması.exe.config
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\bin\Debug\floyd algoritması.exe
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\bin\Debug\floyd algoritması.pdb
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd algoritması.csprojAssemblyReference.cache
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd_algoritması.Form1.resources
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd_algoritması.Properties.Resources.resources
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd algoritması.csproj.GenerateResource.cache
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd algoritması.exe.licenses
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd algoritması.csproj.CoreCompileInputs.cache
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd algoritması.exe
+C:\Users\OF\source\repos\floyd algoritması\floyd algoritması\obj\Debug\floyd algoritması.pdb
